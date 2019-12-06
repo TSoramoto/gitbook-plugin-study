@@ -1,0 +1,19 @@
+{
+  "name": "gitbook-plugin-study",
+  "version": "1.0.0",
+  "description": "\"# gitbook-plugin-study\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSoramoto/gitbook-plugin-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TSoramoto/gitbook-plugin-study/issues"
+  },
+  "homepage": "https://github.com/TSoramoto/gitbook-plugin-study#readme"
+}
