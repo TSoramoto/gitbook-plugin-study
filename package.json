@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-study",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "\"# gitbook-plugin-study\"",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TSoramoto/gitbook-plugin-study/issues"
+  },
+  "engines": {
+    "gitbook": "*"
   },
   "homepage": "https://github.com/TSoramoto/gitbook-plugin-study#readme"
 }
