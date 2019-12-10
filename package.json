@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-study",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"# gitbook-plugin-study\"",
   "main": "index.js",
   "scripts": {
